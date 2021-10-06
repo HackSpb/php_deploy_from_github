@@ -12,6 +12,7 @@ example:
 https://mysite.org/deploy_from_git.php?secret=supersecret
 
 # correct payload example (json)
+```json
 
 {
   "action": "edited",
@@ -182,3 +183,5 @@ https://mysite.org/deploy_from_git.php?secret=supersecret
     "site_admin": false
   }
 }
+
+```
